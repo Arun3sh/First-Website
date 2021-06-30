@@ -1,17 +1,9 @@
 ﻿body {
     background-color: white;
-    /*background-image: url('images/backgroundredhearts1.jpg');*/
 }
 .mainContainer{
     width: 956px;
-    /*background-color: grey;
-    padding-left: 15%;*/
-    /*Height given for testing purpose
-    height: 800px;*/
     margin: 0px auto;
-    /*Border given for testing purpose
-    border: 3px solid;
-    border-color: green;*/
 }
 @media only screen and (max-width: 1360px){
     .mainContainer{
@@ -70,8 +62,6 @@
 #secondContent{
     float: left;
     width: 43%;
-    /*padding-left: 2%;
-    background-color: palegreen;*/
 }
 #secondContent p{
     text-align: center;
@@ -82,8 +72,6 @@
 #thirdContent{
     float: right;
     width: 43%;
-    /*padding-right: 2%;
-    background-color: aquamarine;*/
 }
 #thirdContent p{
     text-align: center;
